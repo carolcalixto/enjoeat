@@ -1,0 +1,7 @@
+1. Criar pasta log dentro da raiz do projeto e depois rodar a linha abaixo no console:
+cucumber --format html --out=log/report.html
+
+2. Para gerar report para tag específica e gerar report bonito no console também:
+cucumber -t @smoke --format html --out=log/report.html --format pretty
+
+3. Como está no cucumber.yaml na raiz do projeto (melhor forma :))

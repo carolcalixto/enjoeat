@@ -1,0 +1,9 @@
+BDD (comportamento) ajuda MUITO no processo de desenvolvimento, pois ajuda a garantir mais assertividade ao projeto, uma vez que é uma documentação com exemplos que funciona para o desenvolver e para o QA.
+
+Em um desenvolvimento tradicional, poderíamos ter:
+	Casos de Uso (Doc/Espec)    => Dev cria o APP
+	Plano de teste (test case)  => QA testa o APP
+	Massa de testes 	    => QA faz inputs de dados no APP
+
+
+Com o BDD, a documentação é uma só, uma vez que o desenvolvedor, o QA e todo o time pode usar e entender a mesma coisa (e com isso, pode-se ter menos falhas no entendimento da estória a ser desenvolvida).
